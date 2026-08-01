@@ -61,25 +61,6 @@ I am an Odoo Developer with experience in ERP customization, backend development
 
 ---
 
-## Odoo Expertise
-
-- Odoo 16
-- Odoo 17
-- Odoo 18
-- Odoo 19
-- CRM
-- HRMS
-- Payroll
-- Inventory
-- Sales
-- Purchase
-- Website
-- Custom Module Development
-- QWeb Reports
-- API Integration
-
----
-
 ## Currently Working On
 
 - Odoo ERP Development
