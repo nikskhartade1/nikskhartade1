@@ -1,4 +1,4 @@
-# Hi, I'm Nikhil Narayan Khartade
+# Hi,  Nikhil Narayan Khartade
 
 ## About Me
 
