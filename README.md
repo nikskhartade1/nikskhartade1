@@ -8,7 +8,6 @@ Odoo Developer with experience in ERP customization, backend development, API in
 - Python Developer
 - AI & Machine Learning Enthusiast
 - Backend Development
-- ERP Solutions
 - API Integration
 
 ## Programming Languages
@@ -40,6 +39,6 @@ Odoo Developer with experience in ERP customization, backend development, API in
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=nikskhartade1&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikskhartade1&layout=compact&theme=default)
