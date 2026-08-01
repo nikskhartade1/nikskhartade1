@@ -6,7 +6,7 @@
 
 ## About Me
 
-I am an Odoo Developer with experience in ERP customization, backend development, API integration, AI-powered applications, and business automation. I enjoy building scalable software solutions and continuously learning new technologies.
+I am an Odoo Developer with experience in ERP customization, backend development, API integration, AI-powered applications.
 
 - Odoo Developer
 - Python Developer
@@ -67,7 +67,7 @@ I am an Odoo Developer with experience in ERP customization, backend development
 - CRM & HRMS Solutions
 - Website to Odoo Integration
 - Backend Development
-- Business Process Automation
+  
 
 ---
 
@@ -79,11 +79,11 @@ I am an Odoo Developer with experience in ERP customization, backend development
 
 ---
 
-## Connect With Me
+
 
 - GitHub: https://github.com/nikskhartade1
 - LinkedIn: https://www.linkedin.com/in/nikhil-khartade-2b7332202
 
 ---
 
-*"Building scalable ERP solutions with Odoo, Python and AI."*
+
